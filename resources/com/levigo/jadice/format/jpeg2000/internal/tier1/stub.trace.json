@@ -1,0 +1,67 @@
+{
+  "tiles": [
+    {
+      "id": 0,
+      
+      "comps": [
+        {
+          "id": 0,
+          
+          "resolutions" : [
+            {
+              "id" : 0,
+              
+              "subbands" : [
+                
+                {
+                  "type" : "LL",
+                  
+                  "precincts" : [
+                    {
+                    "id" : 0,
+                    
+                    "blocks" : [
+                      {
+                        "indices"   : {"x":0,"y":0},
+                        "region"    : { "pos" : {"x":0, "y":0}, "size" : {"x":8,"y":16}},
+                        "stripes"   : [4, 4, 4, 4],
+                        "bitplane"  : 28,
+                        "ctxRowGap" : 11,
+                        "ctxBuffer" : [
+                          //...
+                        ],
+                        "segmentationSymbols" : true,
+                        "causalCtx" : true,
+                        "passes"    : [
+                          /* bitplane 28 */ "Cleanup",
+                          /* bitplane 27 */ "Significance", "Refinement", "Cleanup"
+                          /* bitplane 26 */ 
+                          //...
+                        ],
+                        "decisionTrace": [
+                          //...
+                        ],
+                        "sampleTrace" : [
+                          //...
+                        ],
+                        "ctxTrace"   : [
+                          //...
+                        ],
+                        "stateTrace" : [
+                          //...
+                        ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
+    
+  

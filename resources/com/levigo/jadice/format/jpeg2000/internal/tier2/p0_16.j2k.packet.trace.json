@@ -1,0 +1,374 @@
+{
+  "packets": [
+    {
+      "c": 0,
+      "r": 0,
+      "px": 0,
+      "py": 0,
+      "l": 0,
+      "empty": true,
+      "clearedBytes": 1
+    },
+    {
+      "c": 0,
+      "r": 0,
+      "px": 0,
+      "py": 0,
+      "l": 1,
+      "empty": false,
+      "blocks": [
+        {
+          "cbx": 1,
+          "cby": 1,
+          "included": true,
+          "msbs": 1,
+          "passes": 12,
+          "beta": 4,
+          "codewords": [
+            {
+              "length": 112,
+              "passes": 12
+            }
+          ]
+        }
+      ],
+      "clearedBytes": 3
+    },
+    {
+      "c": 0,
+      "r": 0,
+      "px": 0,
+      "py": 0,
+      "l": 2,
+      "empty": false,
+      "blocks": [
+        {
+          "cbx": 1,
+          "cby": 1,
+          "included": true,
+          "passes": 10,
+          "beta": 4,
+          "codewords": [
+            {
+              "length": 100,
+              "passes": 10
+            }
+          ]
+        }
+      ],
+      "clearedBytes": 3
+    },
+    {
+      "c": 0,
+      "r": 1,
+      "px": 0,
+      "py": 0,
+      "l": 0,
+      "empty": true,
+      "clearedBytes": 1
+    },
+    {
+      "c": 0,
+      "r": 1,
+      "px": 0,
+      "py": 0,
+      "l": 1,
+      "empty": false,
+      "blocks": [
+        {
+          "cbx": 1,
+          "cby": 1,
+          "included": true,
+          "msbs": 3,
+          "passes": 7,
+          "beta": 4,
+          "codewords": [
+            {
+              "length": 45,
+              "passes": 7
+            }
+          ]
+        },
+        {
+          "cbx": 1,
+          "cby": 1,
+          "included": true,
+          "msbs": 3,
+          "passes": 7,
+          "beta": 4,
+          "codewords": [
+            {
+              "length": 42,
+              "passes": 7
+            }
+          ]
+        },
+        {
+          "cbx": 1,
+          "cby": 1,
+          "included": true,
+          "msbs": 4,
+          "passes": 4,
+          "beta": 3,
+          "codewords": [
+            {
+              "length": 25,
+              "passes": 4
+            }
+          ]
+        }
+      ],
+      "clearedBytes": 8
+    },
+    {
+      "c": 0,
+      "r": 1,
+      "px": 0,
+      "py": 0,
+      "l": 2,
+      "empty": false,
+      "blocks": [
+        {
+          "cbx": 1,
+          "cby": 1,
+          "included": true,
+          "passes": 12,
+          "beta": 4,
+          "codewords": [
+            {
+              "length": 109,
+              "passes": 12
+            }
+          ]
+        },
+        {
+          "cbx": 1,
+          "cby": 1,
+          "included": true,
+          "passes": 12,
+          "beta": 4,
+          "codewords": [
+            {
+              "length": 105,
+              "passes": 12
+            }
+          ]
+        },
+        {
+          "cbx": 1,
+          "cby": 1,
+          "included": true,
+          "passes": 15,
+          "beta": 4,
+          "codewords": [
+            {
+              "length": 125,
+              "passes": 15
+            }
+          ]
+        }
+      ],
+      "clearedBytes": 7
+    },
+    {
+      "c": 0,
+      "r": 2,
+      "px": 0,
+      "py": 0,
+      "l": 0,
+      "empty": true,
+      "clearedBytes": 1
+    },
+    {
+      "c": 0,
+      "r": 2,
+      "px": 0,
+      "py": 0,
+      "l": 1,
+      "empty": false,
+      "blocks": [
+        {
+          "cbx": 1,
+          "cby": 1,
+          "included": true,
+          "msbs": 3,
+          "passes": 4,
+          "beta": 4,
+          "codewords": [
+            {
+              "length": 62,
+              "passes": 4
+            }
+          ]
+        },
+        {
+          "cbx": 1,
+          "cby": 1,
+          "included": true,
+          "msbs": 3,
+          "passes": 4,
+          "beta": 4,
+          "codewords": [
+            {
+              "length": 63,
+              "passes": 4
+            }
+          ]
+        },
+        {
+          "cbx": 1,
+          "cby": 1,
+          "included": false
+        }
+      ],
+      "clearedBytes": 5
+    },
+    {
+      "c": 0,
+      "r": 2,
+      "px": 0,
+      "py": 0,
+      "l": 2,
+      "empty": false,
+      "blocks": [
+        {
+          "cbx": 1,
+          "cby": 1,
+          "included": true,
+          "passes": 15,
+          "beta": 6,
+          "codewords": [
+            {
+              "length": 445,
+              "passes": 15
+            }
+          ]
+        },
+        {
+          "cbx": 1,
+          "cby": 1,
+          "included": true,
+          "passes": 15,
+          "beta": 6,
+          "codewords": [
+            {
+              "length": 445,
+              "passes": 15
+            }
+          ]
+        },
+        {
+          "cbx": 1,
+          "cby": 1,
+          "included": true,
+          "msbs": 4,
+          "passes": 19,
+          "beta": 6,
+          "codewords": [
+            {
+              "length": 527,
+              "passes": 19
+            }
+          ]
+        }
+      ],
+      "clearedBytes": 10
+    },
+    {
+      "c": 0,
+      "r": 3,
+      "px": 0,
+      "py": 0,
+      "l": 0,
+      "empty": true,
+      "clearedBytes": 1
+    },
+    {
+      "c": 0,
+      "r": 3,
+      "px": 0,
+      "py": 0,
+      "l": 1,
+      "empty": false,
+      "blocks": [
+        {
+          "cbx": 1,
+          "cby": 1,
+          "included": true,
+          "msbs": 2,
+          "passes": 4,
+          "beta": 4,
+          "codewords": [
+            {
+              "length": 41,
+              "passes": 4
+            }
+          ]
+        },
+        {
+          "cbx": 1,
+          "cby": 1,
+          "included": false
+        },
+        {
+          "cbx": 1,
+          "cby": 1,
+          "included": false
+        }
+      ],
+      "clearedBytes": 3
+    },
+    {
+      "c": 0,
+      "r": 3,
+      "px": 0,
+      "py": 0,
+      "l": 2,
+      "empty": false,
+      "blocks": [
+        {
+          "cbx": 1,
+          "cby": 1,
+          "included": true,
+          "passes": 18,
+          "beta": 7,
+          "codewords": [
+            {
+              "length": 1656,
+              "passes": 18
+            }
+          ]
+        },
+        {
+          "cbx": 1,
+          "cby": 1,
+          "included": true,
+          "msbs": 3,
+          "passes": 19,
+          "beta": 7,
+          "codewords": [
+            {
+              "length": 1685,
+              "passes": 19
+            }
+          ]
+        },
+        {
+          "cbx": 1,
+          "cby": 1,
+          "included": true,
+          "msbs": 4,
+          "passes": 19,
+          "beta": 7,
+          "codewords": [
+            {
+              "length": 1676,
+              "passes": 19
+            }
+          ]
+        }
+      ],
+      "clearedBytes": 11
+    }
+  ]
+}

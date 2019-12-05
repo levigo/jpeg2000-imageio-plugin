@@ -1,0 +1,188 @@
+{
+  "packets": [
+    {
+      "c": 0,
+      "r": 0,
+      "px": 0,
+      "py": 0,
+      "l": 0,
+      "empty": false,
+      "blocks": [
+        {
+          "cbx": 1,
+          "cby": 1,
+          "included": true,
+          "msbs": 1,
+          "passes": 22,
+          "beta": 4,
+          "codewords": [
+            {
+              "length": 212,
+              "passes": 22
+            }
+          ]
+        }
+      ],
+      "clearedBytes": 3
+    },
+    {
+      "c": 0,
+      "r": 1,
+      "px": 0,
+      "py": 0,
+      "l": 0,
+      "empty": false,
+      "blocks": [
+        {
+          "cbx": 1,
+          "cby": 1,
+          "included": true,
+          "msbs": 3,
+          "passes": 19,
+          "beta": 4,
+          "codewords": [
+            {
+              "length": 154,
+              "passes": 19
+            }
+          ]
+        },
+        {
+          "cbx": 1,
+          "cby": 1,
+          "included": true,
+          "msbs": 3,
+          "passes": 19,
+          "beta": 4,
+          "codewords": [
+            {
+              "length": 147,
+              "passes": 19
+            }
+          ]
+        },
+        {
+          "cbx": 1,
+          "cby": 1,
+          "included": true,
+          "msbs": 4,
+          "passes": 19,
+          "beta": 4,
+          "codewords": [
+            {
+              "length": 150,
+              "passes": 19
+            }
+          ]
+        }
+      ],
+      "clearedBytes": 10
+    },
+    {
+      "c": 0,
+      "r": 2,
+      "px": 0,
+      "py": 0,
+      "l": 0,
+      "empty": false,
+      "blocks": [
+        {
+          "cbx": 1,
+          "cby": 1,
+          "included": true,
+          "msbs": 3,
+          "passes": 19,
+          "beta": 5,
+          "codewords": [
+            {
+              "length": 507,
+              "passes": 19
+            }
+          ]
+        },
+        {
+          "cbx": 1,
+          "cby": 1,
+          "included": true,
+          "msbs": 3,
+          "passes": 19,
+          "beta": 5,
+          "codewords": [
+            {
+              "length": 508,
+              "passes": 19
+            }
+          ]
+        },
+        {
+          "cbx": 1,
+          "cby": 1,
+          "included": true,
+          "msbs": 4,
+          "passes": 19,
+          "beta": 6,
+          "codewords": [
+            {
+              "length": 527,
+              "passes": 19
+            }
+          ]
+        }
+      ],
+      "clearedBytes": 11
+    },
+    {
+      "c": 0,
+      "r": 3,
+      "px": 0,
+      "py": 0,
+      "l": 0,
+      "empty": false,
+      "blocks": [
+        {
+          "cbx": 1,
+          "cby": 1,
+          "included": true,
+          "msbs": 2,
+          "passes": 22,
+          "beta": 7,
+          "codewords": [
+            {
+              "length": 1698,
+              "passes": 22
+            }
+          ]
+        },
+        {
+          "cbx": 1,
+          "cby": 1,
+          "included": true,
+          "msbs": 3,
+          "passes": 19,
+          "beta": 7,
+          "codewords": [
+            {
+              "length": 1685,
+              "passes": 19
+            }
+          ]
+        },
+        {
+          "cbx": 1,
+          "cby": 1,
+          "included": true,
+          "msbs": 4,
+          "passes": 19,
+          "beta": 7,
+          "codewords": [
+            {
+              "length": 1676,
+              "passes": 19
+            }
+          ]
+        }
+      ],
+      "clearedBytes": 12
+    }
+  ]
+}
